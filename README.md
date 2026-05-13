@@ -8,7 +8,7 @@ Durante o desenvolvimento, foram aplicados conceitos de estruturação de págin
 
 🌐 Acesse o Projeto
 
-🔗 Link do projeto: https://thais-05.github.io/-web-filmes/
+🔗 Link do projeto: https://thais-05.github.io/Web_filmes/
 
 🚀 Objetivos do Projeto
 
